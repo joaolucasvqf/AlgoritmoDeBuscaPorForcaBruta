@@ -1,0 +1,7 @@
+*.assets.cache
+*.csproj.CoreCompileInputs.cache
+*.pdb
+*.exe
+*.dll
+*.cache
+*.csproj.FileListAbsolute.txt

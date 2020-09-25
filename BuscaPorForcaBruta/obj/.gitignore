@@ -1,0 +1,4 @@
+*.csproj.nuget.g.props
+*.csproj.nuget.dgspec.json
+*.nuget.cache
+*.assets.json
