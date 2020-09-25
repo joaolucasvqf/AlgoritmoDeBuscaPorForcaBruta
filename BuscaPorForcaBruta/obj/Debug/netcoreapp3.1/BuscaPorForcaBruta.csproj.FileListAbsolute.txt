@@ -1,0 +1,13 @@
+C:\Users\João Lucas\source\repos\BuscaPorForcaBruta\BuscaPorForcaBruta\bin\Debug\netcoreapp3.1\BuscaPorForcaBruta.exe
+C:\Users\João Lucas\source\repos\BuscaPorForcaBruta\BuscaPorForcaBruta\bin\Debug\netcoreapp3.1\BuscaPorForcaBruta.deps.json
+C:\Users\João Lucas\source\repos\BuscaPorForcaBruta\BuscaPorForcaBruta\bin\Debug\netcoreapp3.1\BuscaPorForcaBruta.runtimeconfig.json
+C:\Users\João Lucas\source\repos\BuscaPorForcaBruta\BuscaPorForcaBruta\bin\Debug\netcoreapp3.1\BuscaPorForcaBruta.runtimeconfig.dev.json
+C:\Users\João Lucas\source\repos\BuscaPorForcaBruta\BuscaPorForcaBruta\bin\Debug\netcoreapp3.1\BuscaPorForcaBruta.dll
+C:\Users\João Lucas\source\repos\BuscaPorForcaBruta\BuscaPorForcaBruta\bin\Debug\netcoreapp3.1\BuscaPorForcaBruta.pdb
+C:\Users\João Lucas\source\repos\BuscaPorForcaBruta\BuscaPorForcaBruta\obj\Debug\netcoreapp3.1\BuscaPorForcaBruta.csprojAssemblyReference.cache
+C:\Users\João Lucas\source\repos\BuscaPorForcaBruta\BuscaPorForcaBruta\obj\Debug\netcoreapp3.1\BuscaPorForcaBruta.AssemblyInfoInputs.cache
+C:\Users\João Lucas\source\repos\BuscaPorForcaBruta\BuscaPorForcaBruta\obj\Debug\netcoreapp3.1\BuscaPorForcaBruta.AssemblyInfo.cs
+C:\Users\João Lucas\source\repos\BuscaPorForcaBruta\BuscaPorForcaBruta\obj\Debug\netcoreapp3.1\BuscaPorForcaBruta.csproj.CoreCompileInputs.cache
+C:\Users\João Lucas\source\repos\BuscaPorForcaBruta\BuscaPorForcaBruta\obj\Debug\netcoreapp3.1\BuscaPorForcaBruta.dll
+C:\Users\João Lucas\source\repos\BuscaPorForcaBruta\BuscaPorForcaBruta\obj\Debug\netcoreapp3.1\BuscaPorForcaBruta.pdb
+C:\Users\João Lucas\source\repos\BuscaPorForcaBruta\BuscaPorForcaBruta\obj\Debug\netcoreapp3.1\BuscaPorForcaBruta.genruntimeconfig.cache

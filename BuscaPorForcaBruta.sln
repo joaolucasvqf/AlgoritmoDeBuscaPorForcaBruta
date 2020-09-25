@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuscaPorForcaBruta", "BuscaPorForcaBruta\BuscaPorForcaBruta.csproj", "{AB7A34BE-D2EC-4FE7-B2B0-F0270BDE5E8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB7A34BE-D2EC-4FE7-B2B0-F0270BDE5E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7A34BE-D2EC-4FE7-B2B0-F0270BDE5E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7A34BE-D2EC-4FE7-B2B0-F0270BDE5E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7A34BE-D2EC-4FE7-B2B0-F0270BDE5E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8EFBC99-50FD-4AAB-9740-C7F3EB97C8BB}
+	EndGlobalSection
+EndGlobal
